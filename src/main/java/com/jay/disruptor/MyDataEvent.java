@@ -1,4 +1,4 @@
-package com.jay;
+package com.jay.disruptor;
 
 /**
  第一步：创建一个数据单元Event

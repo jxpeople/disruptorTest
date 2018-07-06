@@ -1,4 +1,4 @@
-package com.jay;
+package com.jay.disruptor;
 
 import com.lmax.disruptor.EventHandler;
 
